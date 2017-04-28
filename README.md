@@ -1,1 +1,1 @@
-# homework_jinguanxueyuan
+# 经管学院作业仓库
